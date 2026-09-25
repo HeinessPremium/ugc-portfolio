@@ -1,0 +1,12 @@
+[
+  { "file": "4.mp4", "category": "skit", "label": "Couple conversation skit" },
+  { "file": "10.mp4", "category": "skit", "label": "Classroom story scene" },
+  { "file": "2.mp4", "category": "ugc", "label": "Lifestyle / sleepwear" },
+  { "file": "3.mp4", "category": "ugc", "label": "Talking-head testimonial" },
+  { "file": "5.mp4", "category": "ugc", "label": "Get-ready-with-me" },
+  { "file": "1.mp4", "category": "product", "label": "App walkthrough" },
+  { "file": "6.mp4", "category": "product", "label": "Brand presentation" },
+  { "file": "7.mp4", "category": "product", "label": "Fabric detail shot" },
+  { "file": "8.mp4", "category": "product", "label": "Fashion piece, look A" },
+  { "file": "9.mp4", "category": "product", "label": "Fashion piece, look B" }
+]
